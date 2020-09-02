@@ -1,1 +1,2 @@
-# Fylo-Landing-Page
+# Fylo
+Fylo landing page
