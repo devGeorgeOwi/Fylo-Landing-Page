@@ -209,7 +209,7 @@ header {
 
 .avatar-title {
     font-size: 10px;
-    margin-left: 80px;
+    margin-left: 85px;
     margin-top: -45px;
     
 }
@@ -286,7 +286,7 @@ header {
 .footer-logo {
     height: 34px;
     margin-top: 100px;
-    margin-left: -2px;
+    margin-left: 6px;
 }
 
 ._address {
@@ -296,7 +296,7 @@ header {
 
 img.address-icon {
     margin-top: 0px;
-    margin-left: -15px;
+    margin-left: -6px;
     padding: 9px 12px;
 }
 
