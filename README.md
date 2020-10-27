@@ -1,4 +1,4 @@
 # Fylo
 Fylo landing page
 
-Link to hosted live link https://team1-fylo-landing-page.netlify.app/
+Link to hosted live link https://fylo-landing-page-app.netlify.app/
